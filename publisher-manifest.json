@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cdcfaaa99782a4365977c49e",
+  "owner": "pwk8xwvp",
+  "repo": "page-30602066352e87a6cc10911d",
+  "title": "clashmi官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "30602066352e87a6cc10911d",
+      "a": "clashmi官网",
+      "b": "",
+      "entity": "clashmi官网",
+      "brand": "clashmi官网",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1e8c102c714f15e4b148914baf82a1821443e0870074ccbbfbfd29cece810b45",
+      "content": {
+        "keyword1": "clashmi官网",
+        "keyword2": "",
+        "primary_entity": "clashmi官网",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi官网说明 VPN 梯子网络加速与加速器客户端的获取方式，并介绍机场订阅套餐、使用场景、操作步骤和常见问题，方便对照官方下载入口完成基础设置。",
+          "AI_DESCRIPTION": "clashmi官网说明 VPN 梯子网络加速与加速器客户端的获取方式，并介绍机场订阅套餐、使用场景、操作步骤和常见问题，方便对照官方下载入口完成基础设置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;color:#10243d;background:#eef4f8;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;font-size:17px;line-height:1.75}header,main,footer{width:100%;max-width:100%}.top{background:#0b1f3a;color:#f4fbff;border-bottom:4px solid #14b8c4}.wrap{width:100%;max-width:1040px;margin:0 auto;padding:20px 16px}.brand{margin:0;font-size:1.05rem;color:#8eebf3}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:12px}nav a{color:#e7f8fb;text-decoration:none;border-bottom:1px solid transparent}h1{font-size:1.8rem;line-height:1.35;margin:0 0 12px;color:#0b1f3a}h2{font-size:1.4rem;line-height:1.4;margin:0 0 12px;color:#0b1f3a}h3{font-size:1.1rem;line-height:1.45;margin:0 0 8px;color:#123056}p{margin:0 0 12px;overflow-wrap:anywhere}a{color:#0c4a6e}.hero{background:#fff;border:1px solid #d5e4ef;border-radius:16px}.split,.card-grid,.plans,.steps{display:grid;grid-template-columns:1fr;gap:12px}.panel{background:#f4fbfd;border-left:4px solid #14b8c4;padding:12px 14px;border-radius:0 12px 12px 0}.section{margin:28px 0}.card,.step,.plan{background:#fff;border:1px solid #d5e4ef;border-radius:14px;padding:14px 16px}.plan{display:flex;flex-direction:column;gap:8px}.plan.featured{border:2px solid #0e7490;background:#f0fdff}.tag{display:inline-block;background:#0e7490;color:#fff;font-size:.85rem;padding:2px 8px;border-radius:999px}.price{font-size:1.55rem;font-weight:700;color:#0b1f3a;margin:0}.annual{color:#0f5f78;margin:0}.plan ul,.panel ul{margin:0;padding-left:1.15em}.plan li{margin:4px 0}.btn{display:inline-block;background:#0b1f3a;color:#f4fbff;text-decoration:none;padding:10px 14px;border-radius:10px;text-align:center}.plan.featured .btn{background:#0e7490}.num{color:#0e7490;font-weight:700}details{background:#fff;border:1px solid #d5e4ef;border-radius:12px;padding:12px 14px;margin:0 0 12px}summary{font-weight:700;color:#0b1f3a;cursor:pointer}footer{background:#0b1f3a;color:#d7eef3}footer a{color:#9be7f0}@media(min-width:760px){.split{grid-template-columns:1.5fr .9fr;gap:20px}.card-grid,.steps{grid-template-columns:1fr 1fr}.plans{grid-template-columns:repeat(3,1fr);align-items:stretch}h1{font-size:2.1rem}}</style><header class=\"top\"><div class=\"wrap\"><p class=\"brand\">clashmi官网</p><nav><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><article class=\"hero\"><div class=\"wrap split\"><div><h1>clashmi官网：VPN 梯子网络加速与客户端下载</h1><p>clashmi官网把机场订阅选择、加速器客户端获取和基础连接说明放在同一页。你可以按月流量、同时在线设备和线路类型对照三档套餐，再决定是否需要流媒体解锁或游戏向专线优化。</p><p>本页强调可核对的套餐信息，不展示评分和用户评论。节点是否可用、延迟是否稳定，取决于你所在的网络和所选线路，页面不能代替客户端里的实时状态。</p></div><aside class=\"panel\"><h2>先看这三件事</h2><ul><li>设备不多、流量适中，从基础版看起。</li><li>需要流媒体与游戏优化，重点看旗舰版。</li><li>多人共用或要定制路由，再看团队版。</li></ul></aside></div></article><section class=\"section\" id=\"about\"><h2>品牌简介</h2><p>clashmi官网面向需要 VPN 梯子网络加速的读者，说明如何用兼容客户端管理机场订阅。品牌页的作用是把官方下载入口、套餐差异和操作顺序写清楚，减少只看价格、忽略设备数和流量的误选。</p><p>客户端负责导入订阅、更新节点和切换线路；订阅决定可用流量、设备上限和线路类别。二者需要一起看：只下载客户端而没有有效订阅，无法完成连接；只购买订阅却装了来源不明的安装包，也不应继续使用。</p></section><section class=\"section\" id=\"plans\"><h2>套餐对比</h2><p>以下价格与包含项按本页列出的方案书写。年付是各档单独标出的结算价，不是在月价之外再叠加未说明的折扣。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#guide\">查看开通顺序</a></article><article class=\"plan featured\"><p class=\"tag\">重点对照</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#guide\">按此档查看步骤</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#guide\">查看团队使用说明</a></article></div></section><section class=\"section\" id=\"scenes\"><h2>使用场景</h2><div class=\"card-grid\"><article class=\"card\"><h3>远程办公与学习</h3><p>需要访问跨境邮箱、协作文档或课程平台时，先确认套餐设备数是否覆盖电脑和手机。基础版适合三台以内；多人共用同一订阅时应改看团队版，避免挤占在线名额。</p></article><article class=\"card\"><h3>流媒体观看</h3><p>基础版提供基础流媒体解锁，旗舰版写明全节点原生流媒体解锁。若某个平台仍提示地区限制，应在客户端更换节点并更新订阅，而不是反复重装系统。</p></article><article class=\"card\"><h3>游戏加速</h3><p>旗舰版包含 IPLC 专线游戏加速优化。游戏对抖动更敏感，连接后先用短时间试玩判断是否稳定，再决定是否长期使用该线路。</p></article><article class=\"card\"><h3>团队共用</h3><p>团队版支持 20 台设备、VIP 高带宽节点、企业定制路由和客户经理。适合需要统一订阅、而不是每人单独购买基础版的小组。</p></article></div></section><section class=\"section\" id=\"guide\"><h2>操作说明</h2><div class=\"steps\"><article class=\"step\"><h3><span class=\"num\">1.</span> 按限制选套餐</h3><p>先数会同时在线的设备，再估计每月流量。100GB 对应基础版，300GB 对应旗舰版，1000GB 对应团队版。设备数超限时，后连接的设备可能无法上线。</p></article><article class=\"step\"><h3><span class=\"num\">2.</span> 保存订阅信息</h3><p>开通后只在自己的客户端中保存订阅。不要把订阅链接发到群聊或截图公开，否则流量可能被他人占用。</p></article><article class=\"step\"><h3><span class=\"num\">3.</span> 安装匹配的客户端</h3><p>到本页客户端下载区核对系统，再安装你已确认来源的加速器客户端。不要使用来路不明的改包。</p></article><article class=\"step\"><h3><span class=\"num\">4.</span> 导入并更新</h3><p>在客户端的订阅或配置入口粘贴订阅信息，执行更新，直到节点列表出现。更新失败时先检查是否过期，再重试。</p></article><article class=\"step\"><h3><span class=\"num\">5.</span> 按场景选线路</h3><p>普通浏览可用普通线路节点池。看流媒体时选标注解锁的节点。游戏再试旗舰版中的 IPLC 优化线路。一次只保留一个主连接，避免多个客户端同时抢同一设备名额。</p></article><article class=\"step\"><h3><span class=\"num\">6.</span> 到期与续费</h3><p>流量用尽或周期结束前，按所选月付或年付方案续费。年付价格分别为 150 元、350 元和 850 元。续费后记得在客户端更新订阅。</p></article></div></section><section class=\"section\" id=\"download\"><h2>客户端下载</h2><p>clashmi官网的官方下载入口放在本页，链接只使用页内锚点，不跳转外部站点，也不内嵌安装包。请按自己的系统准备客户端：电脑可选常见桌面版，手机可选对应的移动版，再回到操作说明完成订阅导入。</p><p><a href=\"#guide\">前往操作说明</a> · <a href=\"#plans\">返回套餐对比</a> · <a href=\"#faq\">查看下载相关问题</a></p><p>若安装包要求关闭系统保护、索要与加速无关的通讯录或短信权限，应停止安装。官方下载只应用于获取网络加速客户端，不应用于不明脚本或其他软件。</p></section><section class=\"section\" id=\"faq\"><h2>常见问题</h2><details><summary>clashmi官网和单独的加速器客户端是什么关系？</summary><p>客户端负责连接和切换节点，clashmi官网负责说明机场订阅、套餐限制和官方下载入口。没有有效订阅时，客户端无法获得本页所列流量和线路。</p></details><details><summary>VPN 梯子网络加速适合什么，不适合什么？</summary><p>适合跨境办公、课程、流媒体和需要降低游戏线路波动的使用。它不提高本地宽带的物理上限，也不能保证每一个网站都可打开。具体解锁范围以套餐写明的基础流媒体或全节点原生解锁为准。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>三台设备、每月约 100GB，选基础版。需要 300GB、五台设备、全节点流媒体和 IPLC 游戏优化，选旗舰版。二十台设备、1000GB、定制路由和客户经理，选团队版。不要只比较月费。</p></details><details><summary>客户端下载后如何导入机场订阅？</summary><p>安装与系统匹配的客户端，打开订阅入口，粘贴自己的订阅信息并更新节点。看到线路列表后再连接。导入失败时核对是否复制完整、订阅是否过期，不要把链接发给他人代查。</p></details><details><summary>年付价格是否等于月价乘以十二？</summary><p>不是。页面给出的年付是独立标价：基础版 150 元/年，旗舰版 350 元/年，团队版 850 元/年。以该标价为准，不要自行按月价推算后再要求差额。</p></details><details><summary>连不上时先检查哪些项目？</summary><p>依次检查订阅是否过期、流量是否用尽、设备数是否超限、客户端时间是否正确，然后更新订阅并更换节点。旗舰版可使用优先工单，团队版可联系客户经理；基础版按普通支持处理。</p></details><details><summary>官网下载为什么不提供外部地址？</summary><p>本静态页只保留页内入口，避免把读者带到无法在此核对的第三方安装包。请使用本页客户端下载区与操作说明，并拒绝来源不明的所谓官方包。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>clashmi官网 · 本页用于对照 VPN 梯子网络加速套餐、机场订阅和客户端下载说明。</p><p><a href=\"#about\">返回简介</a> · <a href=\"#plans\">套餐</a> · <a href=\"#download\">下载说明</a></p></div></footer>",
+          "hash": "8b4dd952b9d3000b602ad49aa6c2262da87d3619159731121e445c85f092ef89",
+          "seo": {
+            "title": "clashmi官网：VPN 梯子网络加速与客户端下载",
+            "keywords": "clashmi官网,ClashMi,VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "clashmi官网说明 VPN 梯子网络加速与加速器客户端的获取方式，并介绍机场订阅套餐、使用场景、操作步骤和常见问题，方便对照官方下载入口完成基础设置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ey777.cn",
+    "host": "p-16bcff3014.ey777.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "adef71847d8d8053781e4f2968c0eca5c2bb1db399c90815efe03f094516bc71",
+    "sitemap.xml": "a1204abdb987e37dfa2a40c56705fa78ae7dc39ab2f93c15b58f4b97e713e0ff",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5539ec04e5e72f25d3874a978961c4c1bcc86e715df81c6ac84ecde3be31dd8f",
+    "robots.txt": "9229ac757a361099ff96cbf1f4f93b7aa70567aa4d47dd390d00978a757d8b2c",
+    "1d8b3da9a770b0b4be3d142905b4157c.txt": "30ed800d1caf3a189b74a583bd9656b50b50eb9fbaedba65ccb0bfdb91e2f2ef"
+  },
+  "revision": "bde58bc0fb07da64ac10a24c5a5e1bbcb74dc499bca7e6d0d0e0d6c9b208b822"
+}
